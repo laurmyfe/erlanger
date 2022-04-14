@@ -1,6 +1,7 @@
 # Erlanger
 Custom shaded relief map for Erlanger
 
-![Erlanger Shaded Relief Map](Neighborhood.jpg)
+![Erlanger Shaded Relief Map](neighborhood.jpg)
 
-*Vegetation and Shaded Relief in Erlanger*
+*Download [Neighborhood PDF](Neighborhood.pdf)*
+
